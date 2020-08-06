@@ -3,12 +3,12 @@ entries:
   deepdive-quarkus:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-06T12:05:09.239479-03:00"
+    created: "2020-08-06T12:30:39.388287-03:00"
     description: A Helm chart for Kubernetes
     digest: d7012acdf0af27e3172f7a68ab1dc91d05d1ce40ddce221bc60a401e768195bc
     name: deepdive-quarkus
     type: application
     urls:
-    - http://nexusrepo-sonatype-nexus-service-mohashi-nexus.apps.mw.consulting-rh-br.com/repository/helm-repo/deepdive-quarkus-0.1.0.tgz
+    - http://www.mohashi.io/my-helm-charts/deepdive-quarkus-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-06T12:05:09.238657-03:00"
+generated: "2020-08-06T12:30:39.38751-03:00"
